@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GooglePlacesApp</string>
+    <string name="get_location">Get Location</string>
+    <string name="search_place">Searched Place is:</string>
+    <string name="current_location_coordinates">Current Location Coordinates  %1$s, %2$s:</string>
+    <string name="api_key">AIzaSyB_DZLB-HLFiYIO-fQP8c7BGJ-cYkRfixM</string>
+</resources>
